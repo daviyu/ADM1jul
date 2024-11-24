@@ -34,7 +34,7 @@ add https://github.com/CourtA96/ADM1jl
 Then, to use the package, run
 
 ```
-julia> using ADM1jul
+julia> using ADM1jl
 ```
 
 
