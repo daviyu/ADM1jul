@@ -20,7 +20,8 @@ To install `ADM1jl` open the Julia REPL and run the following:
 
 ```
 julia> using Pkg
-julia> Pkg.add(url="https://github.com/CourtA96/ADM1jl")
+julia> Pkg.add(url="https://github.com/daviyu/ADM1jul")
+# The original author @CourtA96 did not release the package, so Pkg.add() can not find the manifest file. If the same problem is encountered, please try the upper one.
 ```
 
 OR enter the Pkg REPL by pressing ] and running:
